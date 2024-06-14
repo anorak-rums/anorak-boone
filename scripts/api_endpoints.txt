@@ -20,3 +20,4 @@ Distributed Systems Stay hungry, stay foolish. WebSockets Scalability Code Revie
 DevOps Serverless I find that the harder I work, the more luck I seem to have. Latency Optimization Dream big and dare to fail. Python JWT
 Do what you love and the money will follow. Cloud Functions OAuth Database Indexing Load Balancing Innovation distinguishes between a leader and a follower. Parallel Processing DevOps Containerization Optimization Success is how high you bounce when you hit bottom.
 Automation Big Data Lambda Functions A/B Testing Monitoring Cloud Event Sourcing Blockchain Docker
+Dream big and dare to fail. Cloud Functions Cloud Success doesn’t just find you. You have to go out and get it. Machine Learning
