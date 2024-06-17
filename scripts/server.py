@@ -23,3 +23,4 @@ Event Sourcing Load Balancing Lambda Functions Database Indexing JavaScript Dock
 Python Distributed Systems Data Science Quantum Computing Edge Computing Cloud If you can dream it, you can do it. JWT
 Testing Blockchain WebSockets The only way to do great work is to love what you do. OAuth
 Multi-threading GraphQL Success is how high you bounce when you hit bottom. Automation Opportunities don't happen. You create them. JWT Deployment Backend
+Machine Learning Big Data Microservices Cloud Functions Distributed Systems Message Queue Database Indexing
