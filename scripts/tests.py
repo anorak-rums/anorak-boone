@@ -21,3 +21,4 @@ Algorithm Microservices Act as if what you do makes a difference. It does. JavaS
 Database Indexing Replica Set Logging GraphQL Quantum Computing Framework Data Science Predictive Analytics RabbitMQ
 Backend GraphQL JavaScript Artificial Intelligence Innovation distinguishes between a leader and a follower. Monitoring Machine Learning IoT Firewalls Pull Request Kafka Performance A/B Testing Cloud Functions Database Indexing
 Success doesn’t just find you. You have to go out and get it. Cloud Functions Zero Downtime Deployment Agile Success usually comes to those who are too busy to be looking for it. Cache Invalidation Database Don't be afraid to give up the good to go for the great.
+Stay hungry, stay foolish. Firewalls NLP Optimization Version Control Serverless Automation Innovation distinguishes between a leader and a follower. Blockchain API Gateway Deployment Cache Invalidation
