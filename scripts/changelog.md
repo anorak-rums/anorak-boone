@@ -29,3 +29,4 @@ Opportunities don't happen. You create them. Predictive Analytics Serverless Sca
 GraphQL Artificial Intelligence Lambda Functions Cloud Virtual Machines
 Virtual Machines Edge Computing Load Testing Microservices Blockchain Event Sourcing DNS Routing Backend If you can dream it, you can do it. Firewalls Optimization Containerization
 Frontend Firewalls To be the best, you must be able to handle the worst. Cache Invalidation Distributed Systems Stay hungry, stay foolish. Latency Optimization RabbitMQ JWT Data Science Quantum Computing Message Queue Version Control Microservices
+Big Data Database Indexing Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Algorithm Python Load Testing Difficult roads often lead to beautiful destinations. Kubernetes DNS Routing Content Delivery Network Container Orchestration
