@@ -23,3 +23,4 @@ Message Queue Container Orchestration Machine Learning Agile Do what you love an
 Innovation distinguishes between a leader and a follower. Data Pipeline Testing Automation Framework Big Data If you can dream it, you can do it. Firewalls Multi-threading Microservices
 Multi-threading Sharding Framework Backend NLP Load Balancing
 Artificial Intelligence Backend WebSockets Machine Learning A/B Testing Event-driven Architecture
+Content Delivery Network Server Response Success is how high you bounce when you hit bottom. Replica Set API JWT API Gateway Frontend CI/CD If you can dream it, you can do it. Kafka Load Testing Cloud Predictive Analytics OAuth
