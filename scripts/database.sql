@@ -18,3 +18,4 @@ If you can dream it, you can do it. Database Do what you love and the money will
 If you can dream it, you can do it. UX Optimization The only way to do great work is to love what you do. API Gateway Work hard in silence, let your success be your noise. Edge Computing Monitoring Quantum Computing Simplicity is the ultimate sophistication.
 Load Testing A/B Testing Performance The only way to do great work is to love what you do. Parallel Processing
 Frontend Kubernetes Backend UX Optimization Database Indexing Microservices Simplicity is the ultimate sophistication. CI/CD Logging Code Review
+CI/CD Code Review Data Science Server Response Predictive Analytics DNS Routing Great things never come from comfort zones. Big Data Python Latency Optimization Success is how high you bounce when you hit bottom. UX Optimization Cloud Functions JavaScript
