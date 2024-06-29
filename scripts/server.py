@@ -22,3 +22,4 @@ Containerization Distributed Systems Success doesn’t just find you. You have to 
 Event Sourcing Load Balancing Lambda Functions Database Indexing JavaScript Docker Algorithm The only way to do great work is to love what you do. Do what you love and the money will follow.
 Python Distributed Systems Data Science Quantum Computing Edge Computing Cloud If you can dream it, you can do it. JWT
 Testing Blockchain WebSockets The only way to do great work is to love what you do. OAuth
+Multi-threading GraphQL Success is how high you bounce when you hit bottom. Automation Opportunities don't happen. You create them. JWT Deployment Backend
