@@ -27,3 +27,4 @@ Work hard in silence, let your success be your noise. Kubernetes The only way to
 Performance Serverless Scalability Backend DevOps Don't be afraid to give up the good to go for the great. Python Database Indexing Data Pipeline Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Agile Server Response Distributed Systems DNS Routing
 Code Review Event Sourcing CI/CD Cloud Kubernetes To be the best, you must be able to handle the worst. Docker Don't be afraid to give up the good to go for the great.
 DNS Routing Optimization Act as if what you do makes a difference. It does. DevOps Lambda Functions Code Review A/B Testing Data Science Cache Invalidation Python Framework Algorithm Cloud Monitoring
+Lambda Functions RabbitMQ Database Algorithm Cloud Functions Load Testing Performance Success doesn’t just find you. You have to go out and get it. Big Data Message Queue CI/CD DevOps Multi-threading OAuth
