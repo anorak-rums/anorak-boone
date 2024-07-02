@@ -19,3 +19,4 @@ The only way to do great work is to love what you do. Do what you love and the m
 Success is not in what you have, but who you are. Dream big and dare to fail. Cache Invalidation The only way to do great work is to love what you do. UX Optimization RabbitMQ A/B Testing Distributed Systems Edge Computing Kubernetes Multi-threading
 Load Testing NLP Difficult roads often lead to beautiful destinations. Sharding GraphQL Do what you love and the money will follow. Monitoring
 UX Optimization Cloud Serverless NLP WebSockets Frontend React
+Success is how high you bounce when you hit bottom. JWT Testing I find that the harder I work, the more luck I seem to have. NLP The only way to do great work is to love what you do. Sharding Stay hungry, stay foolish.
