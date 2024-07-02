@@ -28,3 +28,4 @@ Monitoring RabbitMQ Version Control Deployment Frontend Firewalls GraphQL
 Automation I find that the harder I work, the more luck I seem to have. DNS Routing DevOps Machine Learning Algorithm Testing Big Data Don't be afraid to give up the good to go for the great.
 Zero Downtime Deployment Microservices Load Testing Load Balancing Firewalls Code Review Virtual Machines Deployment Success usually comes to those who are too busy to be looking for it. Quantum Computing
 Event Sourcing Success is not in what you have, but who you are. Message Queue Success is how high you bounce when you hit bottom. Logging API Gateway Serverless Replica Set Microservices Blockchain Code Review Data Science
+API Server Response Act as if what you do makes a difference. It does. Edge Computing Quantum Computing Lambda Functions Sharding Zero Downtime Deployment Event-driven Architecture Testing

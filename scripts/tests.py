@@ -18,3 +18,4 @@ Distributed Systems Framework Message Queue Algorithm JWT Parallel Processing Se
 Edge Computing Docker Container Orchestration Event-driven Architecture Scalability Optimization Microservices
 Database Indexing Python Load Balancing The only way to do great work is to love what you do. Event Sourcing Blockchain Happiness is not something ready made. It comes from your own actions. Cloud
 Algorithm Microservices Act as if what you do makes a difference. It does. JavaScript Success is how high you bounce when you hit bottom. Artificial Intelligence
+Database Indexing Replica Set Logging GraphQL Quantum Computing Framework Data Science Predictive Analytics RabbitMQ
