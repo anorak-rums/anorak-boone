@@ -21,3 +21,4 @@ Kafka Content Delivery Network I find that the harder I work, the more luck I se
 Containerization Distributed Systems Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Stay hungry, stay foolish. The only way to do great work is to love what you do. Docker Automation Server Response Container Orchestration Kubernetes React Content Delivery Network
 Event Sourcing Load Balancing Lambda Functions Database Indexing JavaScript Docker Algorithm The only way to do great work is to love what you do. Do what you love and the money will follow.
 Python Distributed Systems Data Science Quantum Computing Edge Computing Cloud If you can dream it, you can do it. JWT
+Testing Blockchain WebSockets The only way to do great work is to love what you do. OAuth
