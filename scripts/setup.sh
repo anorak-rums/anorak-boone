@@ -18,3 +18,4 @@ Python Load Testing Cache Invalidation Logging If you can dream it, you can do i
 Containerization API Machine Learning Multi-threading Optimization OAuth Replica Set Agile
 Monitoring I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. NLP CI/CD Success doesn’t just find you. You have to go out and get it. Optimization JavaScript Innovation distinguishes between a leader and a follower. React Multi-threading Replica Set Event-driven Architecture
 Performance OAuth Blockchain I find that the harder I work, the more luck I seem to have. Load Balancing Event Sourcing CI/CD A/B Testing Quantum Computing Latency Optimization To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. WebSockets
+Virtual Machines Container Orchestration A/B Testing Cache Invalidation Success is not in what you have, but who you are. Containerization Lambda Functions
