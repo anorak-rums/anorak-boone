@@ -27,3 +27,4 @@ Agile Database Indexing Artificial Intelligence Load Testing If you can dream it
 Event-driven Architecture Automation Backend To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Logging
 OAuth RabbitMQ Containerization IoT Replica Set Edge Computing Quantum Computing GraphQL Serverless Success usually comes to those who are too busy to be looking for it. Pull Request Cloud
 Parallel Processing Cloud Don't be afraid to give up the good to go for the great. GraphQL Firewalls Success doesn’t just find you. You have to go out and get it. API Happiness is not something ready made. It comes from your own actions. JavaScript Framework Event Sourcing CI/CD Cloud Functions
+I find that the harder I work, the more luck I seem to have. Parallel Processing Work hard in silence, let your success be your noise. Predictive Analytics Version Control Agile Virtual Machines Replica Set JWT
