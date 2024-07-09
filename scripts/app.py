@@ -26,3 +26,4 @@ DevOps Code Review I find that the harder I work, the more luck I seem to have. 
 Do what you love and the money will follow. Lambda Functions The only way to do great work is to love what you do. Content Delivery Network Docker Performance
 UX Optimization A/B Testing Logging Machine Learning API Firewalls I find that the harder I work, the more luck I seem to have. Containerization Event-driven Architecture
 Security Agile Database IoT Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Edge Computing Machine Learning
+Containerization Automation Kubernetes Blockchain API Gateway Opportunities don't happen. You create them. Zero Downtime Deployment Cloud Functions Dream big and dare to fail. OAuth UX Optimization Don't be afraid to give up the good to go for the great.
