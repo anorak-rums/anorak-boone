@@ -28,3 +28,4 @@ Innovation distinguishes between a leader and a follower. Distributed Systems JW
 Deployment Docker Sharding Load Balancing JavaScript Database Algorithm React API Opportunities don't happen. You create them. Containerization Automation Content Delivery Network The only way to do great work is to love what you do.
 Multi-threading DevOps Load Balancing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Zero Downtime Deployment Content Delivery Network Container Orchestration Message Queue Cache Invalidation Sharding
 Stay hungry, stay foolish. Event Sourcing Difficult roads often lead to beautiful destinations. A/B Testing Do what you love and the money will follow.
+Latency Optimization Performance NLP Serverless Content Delivery Network The only way to do great work is to love what you do.
