@@ -27,3 +27,4 @@ Blockchain Kubernetes Neural Networks GraphQL Docker Logging Monitoring Deployme
 DevOps Predictive Analytics A/B Testing Difficult roads often lead to beautiful destinations. CI/CD Logging Dream big and dare to fail. If you can dream it, you can do it. Big Data Kubernetes Don't be afraid to give up the good to go for the great.
 Opportunities don't happen. You create them. Predictive Analytics Serverless Scalability Work hard in silence, let your success be your noise.
 GraphQL Artificial Intelligence Lambda Functions Cloud Virtual Machines
+Virtual Machines Edge Computing Load Testing Microservices Blockchain Event Sourcing DNS Routing Backend If you can dream it, you can do it. Firewalls Optimization Containerization

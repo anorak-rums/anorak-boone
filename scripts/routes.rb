@@ -29,3 +29,4 @@ Deployment Docker Sharding Load Balancing JavaScript Database Algorithm React AP
 Multi-threading DevOps Load Balancing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Zero Downtime Deployment Content Delivery Network Container Orchestration Message Queue Cache Invalidation Sharding
 Stay hungry, stay foolish. Event Sourcing Difficult roads often lead to beautiful destinations. A/B Testing Do what you love and the money will follow.
 Latency Optimization Performance NLP Serverless Content Delivery Network The only way to do great work is to love what you do.
+WebSockets JavaScript Load Testing Happiness is not something ready made. It comes from your own actions. Neural Networks NLP Act as if what you do makes a difference. It does. RabbitMQ Testing Deployment Don't be afraid to give up the good to go for the great. Replica Set Cloud If you can dream it, you can do it.
