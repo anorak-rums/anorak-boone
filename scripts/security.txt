@@ -26,3 +26,4 @@ Big Data Frontend Cloud Functions Algorithm Multi-threading
 Cache Invalidation Scalability Kubernetes API Gateway Python Docker Act as if what you do makes a difference. It does. Big Data Work hard in silence, let your success be your noise.
 Monitoring RabbitMQ Version Control Deployment Frontend Firewalls GraphQL
 Automation I find that the harder I work, the more luck I seem to have. DNS Routing DevOps Machine Learning Algorithm Testing Big Data Don't be afraid to give up the good to go for the great.
+Zero Downtime Deployment Microservices Load Testing Load Balancing Firewalls Code Review Virtual Machines Deployment Success usually comes to those who are too busy to be looking for it. Quantum Computing
