@@ -20,3 +20,4 @@ Stay hungry, stay foolish. Microservices Act as if what you do makes a differenc
 Performance API Dream big and dare to fail. A/B Testing Sharding Serverless Success doesn’t just find you. You have to go out and get it. Python Lambda Functions
 Firewalls GraphQL DNS Routing Database Indexing Version Control OAuth
 Testing RabbitMQ Content Delivery Network Security Neural Networks DevOps Quantum Computing
+Backend Lambda Functions Parallel Processing Monitoring Kafka Containerization
