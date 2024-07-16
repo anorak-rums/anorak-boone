@@ -19,3 +19,4 @@ Machine Learning Monitoring Replica Set Sharding Python Zero Downtime Deployment
 Stay hungry, stay foolish. Microservices Act as if what you do makes a difference. It does. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower.
 Performance API Dream big and dare to fail. A/B Testing Sharding Serverless Success doesn’t just find you. You have to go out and get it. Python Lambda Functions
 Firewalls GraphQL DNS Routing Database Indexing Version Control OAuth
+Testing RabbitMQ Content Delivery Network Security Neural Networks DevOps Quantum Computing
