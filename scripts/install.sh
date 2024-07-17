@@ -22,3 +22,4 @@ Predictive Analytics Parallel Processing GraphQL Deployment Testing Monitoring
 Message Queue Container Orchestration Machine Learning Agile Do what you love and the money will follow. Serverless NLP UX Optimization IoT Simplicity is the ultimate sophistication.
 Innovation distinguishes between a leader and a follower. Data Pipeline Testing Automation Framework Big Data If you can dream it, you can do it. Firewalls Multi-threading Microservices
 Multi-threading Sharding Framework Backend NLP Load Balancing
+Artificial Intelligence Backend WebSockets Machine Learning A/B Testing Event-driven Architecture
