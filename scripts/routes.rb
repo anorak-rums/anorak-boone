@@ -26,3 +26,4 @@ Event Sourcing Dream big and dare to fail. If you can dream it, you can do it. D
 Edge Computing Docker Serverless Parallel Processing Microservices IoT
 Innovation distinguishes between a leader and a follower. Distributed Systems JWT Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Load Balancing
 Deployment Docker Sharding Load Balancing JavaScript Database Algorithm React API Opportunities don't happen. You create them. Containerization Automation Content Delivery Network The only way to do great work is to love what you do.
+Multi-threading DevOps Load Balancing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Zero Downtime Deployment Content Delivery Network Container Orchestration Message Queue Cache Invalidation Sharding

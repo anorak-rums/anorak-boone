@@ -24,3 +24,4 @@ API Gateway Database Indexing DevOps Act as if what you do makes a difference. I
 Cache Invalidation Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Big Data IoT Stay hungry, stay foolish. Performance Backend
 Big Data Frontend Cloud Functions Algorithm Multi-threading
 Cache Invalidation Scalability Kubernetes API Gateway Python Docker Act as if what you do makes a difference. It does. Big Data Work hard in silence, let your success be your noise.
+Monitoring RabbitMQ Version Control Deployment Frontend Firewalls GraphQL
