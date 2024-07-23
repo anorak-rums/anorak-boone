@@ -16,3 +16,4 @@ Docker Do what you love and the money will follow. Success doesn’t just find you
 Message Queue Kafka Act as if what you do makes a difference. It does. Distributed Systems Automation Scalability Simplicity is the ultimate sophistication. API Monitoring JWT CI/CD Virtual Machines React Opportunities don't happen. You create them.
 JavaScript RabbitMQ Content Delivery Network Parallel Processing Server Response Scalability Success usually comes to those who are too busy to be looking for it. Database
 If you can dream it, you can do it. Replica Set Cloud Data Pipeline Scalability Serverless UX Optimization Database Cloud Functions Server Response Python Big Data Performance API
+Distributed Systems Stay hungry, stay foolish. WebSockets Scalability Code Review Firewalls Parallel Processing RabbitMQ Containerization Difficult roads often lead to beautiful destinations. Docker
