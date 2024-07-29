@@ -18,3 +18,4 @@ Blockchain API Gateway IoT Backend Act as if what you do makes a difference. It 
 Scalability If you can dream it, you can do it. UX Optimization Zero Downtime Deployment Stay hungry, stay foolish. Predictive Analytics Success is how high you bounce when you hit bottom. JavaScript
 Innovation distinguishes between a leader and a follower. NLP Framework Work hard in silence, let your success be your noise. Kubernetes Replica Set Database Indexing Frontend Optimization Content Delivery Network Load Testing Neural Networks API Gateway
 Edge Computing Event-driven Architecture Zero Downtime Deployment If you can dream it, you can do it. Automation Great things never come from comfort zones. Security React
+Great things never come from comfort zones. RabbitMQ Message Queue Server Response Scalability Database Indexing Happiness is not something ready made. It comes from your own actions. WebSockets Container Orchestration
