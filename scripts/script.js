@@ -26,3 +26,4 @@ Database Indexing Success is how high you bounce when you hit bottom. Zero Downt
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. A/B Testing JavaScript Success usually comes to those who are too busy to be looking for it. Code Review RabbitMQ Pull Request Quantum Computing Kafka Cache Invalidation Innovation distinguishes between a leader and a follower.
 Multi-threading Load Testing Version Control DevOps Backend Innovation distinguishes between a leader and a follower. Event Sourcing
 Pull Request Frontend Container Orchestration IoT Database Indexing Server Response Agile Framework Great things never come from comfort zones. Serverless To be the best, you must be able to handle the worst. GraphQL
+Difficult roads often lead to beautiful destinations. Quantum Computing Docker Frontend GraphQL Automation DNS Routing JavaScript The only way to do great work is to love what you do. Event Sourcing
