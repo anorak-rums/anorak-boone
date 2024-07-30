@@ -16,3 +16,4 @@ Parallel Processing Success usually comes to those who are too busy to be lookin
 Scalability Kubernetes Content Delivery Network Pull Request Automation Optimization Latency Optimization Logging Version Control Distributed Systems
 Python Load Testing Cache Invalidation Logging If you can dream it, you can do it. Testing Success is how high you bounce when you hit bottom. Backend Serverless API Virtual Machines Machine Learning
 Containerization API Machine Learning Multi-threading Optimization OAuth Replica Set Agile
+Monitoring I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. NLP CI/CD Success doesn’t just find you. You have to go out and get it. Optimization JavaScript Innovation distinguishes between a leader and a follower. React Multi-threading Replica Set Event-driven Architecture
