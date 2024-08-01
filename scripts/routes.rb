@@ -25,3 +25,4 @@ JWT Message Queue Machine Learning Agile Success is how high you bounce when you
 Event Sourcing Dream big and dare to fail. If you can dream it, you can do it. Data Pipeline Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Algorithm Kafka JavaScript Replica Set Zero Downtime Deployment Deployment Cloud Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it.
 Edge Computing Docker Serverless Parallel Processing Microservices IoT
 Innovation distinguishes between a leader and a follower. Distributed Systems JWT Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Load Balancing
+Deployment Docker Sharding Load Balancing JavaScript Database Algorithm React API Opportunities don't happen. You create them. Containerization Automation Content Delivery Network The only way to do great work is to love what you do.
