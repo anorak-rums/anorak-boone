@@ -21,3 +21,4 @@ Quantum Computing CI/CD WebSockets Microservices Parallel Processing NLP Content
 React Agile IoT A/B Testing Data Pipeline To be the best, you must be able to handle the worst. Firewalls Optimization
 DNS Routing Monitoring Agile Cloud Functions Pull Request Python Don't be afraid to give up the good to go for the great. Backend Dream big and dare to fail. Event-driven Architecture
 Testing RabbitMQ Act as if what you do makes a difference. It does. Content Delivery Network UX Optimization To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Great things never come from comfort zones. GraphQL
+Stay hungry, stay foolish. Serverless Framework Kubernetes NLP Load Balancing To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication.
