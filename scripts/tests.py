@@ -14,3 +14,4 @@ If you can dream it, you can do it. Agile Artificial Intelligence JavaScript Mic
 NLP Security Python Success is how high you bounce when you hit bottom. IoT Container Orchestration Message Queue Zero Downtime Deployment Do what you love and the money will follow. Monitoring Kubernetes RabbitMQ If you can dream it, you can do it.
 Replica Set Performance GraphQL A/B Testing RabbitMQ
 Automation Python Testing Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Docker Data Pipeline Dream big and dare to fail. Zero Downtime Deployment Server Response WebSockets Load Balancing Edge Computing Difficult roads often lead to beautiful destinations. Quantum Computing
+Distributed Systems Framework Message Queue Algorithm JWT Parallel Processing Serverless Success usually comes to those who are too busy to be looking for it. Server Response
