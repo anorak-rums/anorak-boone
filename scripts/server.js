@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Cloud Zero Downtim
 Kafka Multi-threading API Gateway Parallel Processing RabbitMQ CI/CD Quantum Computing Success is not in what you have, but who you are.
 Quantum Computing CI/CD WebSockets Microservices Parallel Processing NLP Content Delivery Network Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Opportunities don't happen. You create them. GraphQL Cloud Artificial Intelligence Kubernetes
 React Agile IoT A/B Testing Data Pipeline To be the best, you must be able to handle the worst. Firewalls Optimization
+DNS Routing Monitoring Agile Cloud Functions Pull Request Python Don't be afraid to give up the good to go for the great. Backend Dream big and dare to fail. Event-driven Architecture
