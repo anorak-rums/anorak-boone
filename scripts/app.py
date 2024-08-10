@@ -19,3 +19,4 @@ UX Optimization Innovation distinguishes between a leader and a follower. Conten
 Containerization Happiness is not something ready made. It comes from your own actions. Event Sourcing Docker Quantum Computing OAuth Scalability Backend
 Cloud Success doesn’t just find you. You have to go out and get it. JWT Performance Message Queue IoT Deployment Testing Virtual Machines Content Delivery Network Pull Request I find that the harder I work, the more luck I seem to have. Event-driven Architecture GraphQL
 Frontend Framework I find that the harder I work, the more luck I seem to have. Message Queue Load Testing Database
+Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Great things never come from comfort zones. Work hard in silence, let your success be your noise. CI/CD Agile Success is how high you bounce when you hit bottom. Predictive Analytics Load Testing

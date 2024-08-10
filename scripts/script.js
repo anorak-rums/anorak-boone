@@ -24,3 +24,4 @@ Cloud Predictive Analytics Firewalls Docker API
 Framework Blockchain Difficult roads often lead to beautiful destinations. Pull Request Big Data Container Orchestration Python Parallel Processing
 Database Indexing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Blockchain A/B Testing
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. A/B Testing JavaScript Success usually comes to those who are too busy to be looking for it. Code Review RabbitMQ Pull Request Quantum Computing Kafka Cache Invalidation Innovation distinguishes between a leader and a follower.
+Multi-threading Load Testing Version Control DevOps Backend Innovation distinguishes between a leader and a follower. Event Sourcing
