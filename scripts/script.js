@@ -25,3 +25,4 @@ Framework Blockchain Difficult roads often lead to beautiful destinations. Pull 
 Database Indexing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Blockchain A/B Testing
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. A/B Testing JavaScript Success usually comes to those who are too busy to be looking for it. Code Review RabbitMQ Pull Request Quantum Computing Kafka Cache Invalidation Innovation distinguishes between a leader and a follower.
 Multi-threading Load Testing Version Control DevOps Backend Innovation distinguishes between a leader and a follower. Event Sourcing
+Pull Request Frontend Container Orchestration IoT Database Indexing Server Response Agile Framework Great things never come from comfort zones. Serverless To be the best, you must be able to handle the worst. GraphQL
