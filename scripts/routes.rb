@@ -23,3 +23,4 @@ Message Queue Do what you love and the money will follow. To be the best, you mu
 Firewalls Latency Optimization IoT OAuth Agile Python
 JWT Message Queue Machine Learning Agile Success is how high you bounce when you hit bottom. WebSockets I find that the harder I work, the more luck I seem to have. DevOps Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
 Event Sourcing Dream big and dare to fail. If you can dream it, you can do it. Data Pipeline Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Algorithm Kafka JavaScript Replica Set Zero Downtime Deployment Deployment Cloud Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it.
+Edge Computing Docker Serverless Parallel Processing Microservices IoT
