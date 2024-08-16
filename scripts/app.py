@@ -18,3 +18,4 @@ Testing Content Delivery Network A/B Testing Algorithm Big Data Machine Learning
 UX Optimization Innovation distinguishes between a leader and a follower. Content Delivery Network API Gateway Scalability Logging Database Performance Act as if what you do makes a difference. It does. Cloud Functions Database Indexing
 Containerization Happiness is not something ready made. It comes from your own actions. Event Sourcing Docker Quantum Computing OAuth Scalability Backend
 Cloud Success doesn’t just find you. You have to go out and get it. JWT Performance Message Queue IoT Deployment Testing Virtual Machines Content Delivery Network Pull Request I find that the harder I work, the more luck I seem to have. Event-driven Architecture GraphQL
+Frontend Framework I find that the harder I work, the more luck I seem to have. Message Queue Load Testing Database
