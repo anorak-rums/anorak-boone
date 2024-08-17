@@ -18,3 +18,4 @@ Machine Learning Event Sourcing Testing A/B Testing Success usually comes to tho
 To be the best, you must be able to handle the worst. Firewalls JWT Database Latency Optimization Optimization Load Balancing React GraphQL Data Science API Microservices JavaScript Dream big and dare to fail.
 Happiness is not something ready made. It comes from your own actions. Server Response Cloud Simplicity is the ultimate sophistication. Cloud Functions React Content Delivery Network Blockchain Frontend Load Balancing
 Database Indexing Docker Data Pipeline Virtual Machines WebSockets Success usually comes to those who are too busy to be looking for it. CI/CD Framework Latency Optimization Message Queue Multi-threading Don't be afraid to give up the good to go for the great. Optimization Microservices Backend
+Sharding DNS Routing Data Science Containerization Quantum Computing Backend Algorithm Do what you love and the money will follow. Version Control
