@@ -22,3 +22,4 @@ Data Science Replica Set If you can dream it, you can do it. RabbitMQ Virtual Ma
 Do what you love and the money will follow. Testing API CI/CD Virtual Machines Edge Computing Version Control Container Orchestration Optimization Containerization Python Data Science
 Cloud Predictive Analytics Firewalls Docker API
 Framework Blockchain Difficult roads often lead to beautiful destinations. Pull Request Big Data Container Orchestration Python Parallel Processing
+Database Indexing Success is how high you bounce when you hit bottom. Zero Downtime Deployment Blockchain A/B Testing
