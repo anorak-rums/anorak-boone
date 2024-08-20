@@ -12,3 +12,4 @@ Act as if what you do makes a difference. It does. Cloud Python Logging Version 
 Database Indexing Performance Load Balancing Blockchain JavaScript Content Delivery Network Server Response NLP Work hard in silence, let your success be your noise. Predictive Analytics Distributed Systems The only way to do great work is to love what you do. Quantum Computing Version Control
 Lambda Functions Monitoring Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. GraphQL Frontend Event-driven Architecture To be the best, you must be able to handle the worst. Scalability
 Event-driven Architecture Framework Edge Computing UX Optimization Data Science Success is not in what you have, but who you are. Security A/B Testing RabbitMQ Code Review
+Act as if what you do makes a difference. It does. GraphQL Data Science Pull Request Cache Invalidation

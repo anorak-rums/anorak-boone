@@ -15,3 +15,4 @@ Cache Invalidation Frontend Happiness is not something ready made. It comes from
 Serverless Backend UX Optimization Success is how high you bounce when you hit bottom. GraphQL Replica Set Opportunities don't happen. You create them. Multi-threading Neural Networks API Containerization
 Version Control Great things never come from comfort zones. UX Optimization Monitoring Cache Invalidation
 Blockchain API Gateway IoT Backend Act as if what you do makes a difference. It does. Event-driven Architecture Scalability Sharding Optimization Content Delivery Network Version Control Distributed Systems Deployment Success doesn’t just find you. You have to go out and get it.
+Scalability If you can dream it, you can do it. UX Optimization Zero Downtime Deployment Stay hungry, stay foolish. Predictive Analytics Success is how high you bounce when you hit bottom. JavaScript
