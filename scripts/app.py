@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. DevOps Suc
 Work hard in silence, let your success be your noise. JavaScript Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Multi-threading
 Testing Content Delivery Network A/B Testing Algorithm Big Data Machine Learning Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Cloud Functions
 UX Optimization Innovation distinguishes between a leader and a follower. Content Delivery Network API Gateway Scalability Logging Database Performance Act as if what you do makes a difference. It does. Cloud Functions Database Indexing
+Containerization Happiness is not something ready made. It comes from your own actions. Event Sourcing Docker Quantum Computing OAuth Scalability Backend
