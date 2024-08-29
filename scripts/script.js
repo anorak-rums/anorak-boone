@@ -21,3 +21,4 @@ IoT Opportunities don't happen. You create them. Quantum Computing JWT Work hard
 Data Science Replica Set If you can dream it, you can do it. RabbitMQ Virtual Machines Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Logging Edge Computing Python The only way to do great work is to love what you do. Do what you love and the money will follow.
 Do what you love and the money will follow. Testing API CI/CD Virtual Machines Edge Computing Version Control Container Orchestration Optimization Containerization Python Data Science
 Cloud Predictive Analytics Firewalls Docker API
+Framework Blockchain Difficult roads often lead to beautiful destinations. Pull Request Big Data Container Orchestration Python Parallel Processing
