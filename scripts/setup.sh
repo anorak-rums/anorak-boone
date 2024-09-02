@@ -15,3 +15,4 @@ RabbitMQ Scalability Success is how high you bounce when you hit bottom. Automat
 Parallel Processing Success usually comes to those who are too busy to be looking for it. A/B Testing Backend Simplicity is the ultimate sophistication. Blockchain Lambda Functions
 Scalability Kubernetes Content Delivery Network Pull Request Automation Optimization Latency Optimization Logging Version Control Distributed Systems
 Python Load Testing Cache Invalidation Logging If you can dream it, you can do it. Testing Success is how high you bounce when you hit bottom. Backend Serverless API Virtual Machines Machine Learning
+Containerization API Machine Learning Multi-threading Optimization OAuth Replica Set Agile

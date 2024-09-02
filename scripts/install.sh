@@ -18,3 +18,4 @@ Multi-threading Cloud Functions Big Data Server Response Database Indexing Conte
 Quantum Computing Do what you love and the money will follow. Message Queue Stay hungry, stay foolish. WebSockets Kafka Frontend Big Data Virtual Machines Testing Performance Content Delivery Network Code Review Great things never come from comfort zones.
 Data Science UX Optimization Optimization Sharding DNS Routing
 Agile Logging Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. JavaScript Do what you love and the money will follow.
+Predictive Analytics Parallel Processing GraphQL Deployment Testing Monitoring
