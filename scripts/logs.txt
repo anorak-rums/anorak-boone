@@ -16,3 +16,4 @@ If you can dream it, you can do it. WebSockets GraphQL Big Data DevOps Lambda Fu
 Latency Optimization Simplicity is the ultimate sophistication. Backend JavaScript Scalability JWT Framework Sharding Load Testing
 JWT Version Control Success is not in what you have, but who you are. Data Pipeline Zero Downtime Deployment Framework
 Machine Learning Monitoring Replica Set Sharding Python Zero Downtime Deployment Algorithm Data Pipeline JWT Parallel Processing DevOps Distributed Systems To be the best, you must be able to handle the worst. If you can dream it, you can do it.
+Stay hungry, stay foolish. Microservices Act as if what you do makes a difference. It does. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower.

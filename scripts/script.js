@@ -20,3 +20,4 @@ Virtual Machines Success doesn’t just find you. You have to go out and get it. D
 IoT Opportunities don't happen. You create them. Quantum Computing JWT Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Big Data A/B Testing Stay hungry, stay foolish. Scalability Deployment React
 Data Science Replica Set If you can dream it, you can do it. RabbitMQ Virtual Machines Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Logging Edge Computing Python The only way to do great work is to love what you do. Do what you love and the money will follow.
 Do what you love and the money will follow. Testing API CI/CD Virtual Machines Edge Computing Version Control Container Orchestration Optimization Containerization Python Data Science
+Cloud Predictive Analytics Firewalls Docker API
