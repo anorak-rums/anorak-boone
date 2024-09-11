@@ -20,3 +20,4 @@ Machine Learning Monitoring Latency Optimization Testing Success usually comes t
 NLP Kafka IoT Success is not in what you have, but who you are. Serverless Code Review
 Frontend Firewalls Kubernetes Neural Networks Cache Invalidation Distributed Systems Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Replica Set Parallel Processing Kubernetes JavaScript Act as if what you do makes a difference. It does. Cache Invalidation Microservices UX Optimization Cloud Functions Automation Lambda Functions
+Agile IoT I find that the harder I work, the more luck I seem to have. UX Optimization The only way to do great work is to love what you do. Virtual Machines Replica Set Server Response CI/CD Difficult roads often lead to beautiful destinations. Message Queue Multi-threading A/B Testing
