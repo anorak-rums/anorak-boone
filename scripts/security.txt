@@ -19,3 +19,4 @@ Security Kubernetes Success usually comes to those who are too busy to be lookin
 Performance Artificial Intelligence Act as if what you do makes a difference. It does. Testing CI/CD A/B Testing Serverless Parallel Processing Cache Invalidation IoT
 Optimization Frontend Framework Multi-threading CI/CD I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Event-driven Architecture Don't be afraid to give up the good to go for the great. Quantum Computing Cloud Functions Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower.
 Lambda Functions The only way to do great work is to love what you do. Latency Optimization JavaScript Event-driven Architecture WebSockets Database Indexing Act as if what you do makes a difference. It does. Backend Message Queue Frontend GraphQL Testing
+OAuth Python JWT I find that the harder I work, the more luck I seem to have. Algorithm
