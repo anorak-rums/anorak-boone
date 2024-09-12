@@ -19,3 +19,4 @@ Parallel Processing Multi-threading Simplicity is the ultimate sophistication. D
 Machine Learning Monitoring Latency Optimization Testing Success usually comes to those who are too busy to be looking for it. Backend Containerization Blockchain OAuth Do what you love and the money will follow. Sharding Optimization API Python
 NLP Kafka IoT Success is not in what you have, but who you are. Serverless Code Review
 Frontend Firewalls Kubernetes Neural Networks Cache Invalidation Distributed Systems Happiness is not something ready made. It comes from your own actions.
+Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Replica Set Parallel Processing Kubernetes JavaScript Act as if what you do makes a difference. It does. Cache Invalidation Microservices UX Optimization Cloud Functions Automation Lambda Functions

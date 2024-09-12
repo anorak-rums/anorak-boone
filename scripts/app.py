@@ -13,3 +13,4 @@ Docker Edge Computing Container Orchestration Event-driven Architecture Neural N
 Logging Event-driven Architecture Backend Security Opportunities don't happen. You create them.
 Backend Data Pipeline Lambda Functions Server Response Scalability I find that the harder I work, the more luck I seem to have. Agile Kubernetes Load Testing Cloud Functions Do what you love and the money will follow. Machine Learning DevOps Blockchain Success doesn’t just find you. You have to go out and get it.
 Success usually comes to those who are too busy to be looking for it. DevOps Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. JavaScript Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.
+Work hard in silence, let your success be your noise. JavaScript Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Multi-threading

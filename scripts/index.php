@@ -15,3 +15,4 @@ Stay hungry, stay foolish. Data Pipeline Data Science Load Testing Testing UX Op
 Opportunities don't happen. You create them. RabbitMQ To be the best, you must be able to handle the worst. Containerization Docker Success is how high you bounce when you hit bottom. Pull Request Database API Gateway WebSockets
 Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Parallel Processing Database Testing Load Testing Framework A/B Testing Data Science
 Machine Learning Event Sourcing Testing A/B Testing Success usually comes to those who are too busy to be looking for it. Firewalls
+To be the best, you must be able to handle the worst. Firewalls JWT Database Latency Optimization Optimization Load Balancing React GraphQL Data Science API Microservices JavaScript Dream big and dare to fail.
