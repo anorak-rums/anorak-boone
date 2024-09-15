@@ -17,3 +17,4 @@ GraphQL Framework Multi-threading Cloud Functions Testing Python Data Pipeline D
 Multi-threading Cloud Functions Big Data Server Response Database Indexing Content Delivery Network CI/CD Don't be afraid to give up the good to go for the great. Python Virtual Machines Logging Agile Do what you love and the money will follow. Testing Algorithm
 Quantum Computing Do what you love and the money will follow. Message Queue Stay hungry, stay foolish. WebSockets Kafka Frontend Big Data Virtual Machines Testing Performance Content Delivery Network Code Review Great things never come from comfort zones.
 Data Science UX Optimization Optimization Sharding DNS Routing
+Agile Logging Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. JavaScript Do what you love and the money will follow.
