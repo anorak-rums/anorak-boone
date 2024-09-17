@@ -16,3 +16,4 @@ Server Response Load Testing The only way to do great work is to love what you d
 GraphQL Framework Multi-threading Cloud Functions Testing Python Data Pipeline Database Indexing Event Sourcing Success is how high you bounce when you hit bottom. Optimization I find that the harder I work, the more luck I seem to have. Load Balancing Serverless
 Multi-threading Cloud Functions Big Data Server Response Database Indexing Content Delivery Network CI/CD Don't be afraid to give up the good to go for the great. Python Virtual Machines Logging Agile Do what you love and the money will follow. Testing Algorithm
 Quantum Computing Do what you love and the money will follow. Message Queue Stay hungry, stay foolish. WebSockets Kafka Frontend Big Data Virtual Machines Testing Performance Content Delivery Network Code Review Great things never come from comfort zones.
+Data Science UX Optimization Optimization Sharding DNS Routing
