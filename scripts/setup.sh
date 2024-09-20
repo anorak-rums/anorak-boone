@@ -14,3 +14,4 @@ Innovation distinguishes between a leader and a follower. Version Control The on
 RabbitMQ Scalability Success is how high you bounce when you hit bottom. Automation Quantum Computing A/B Testing API Gateway Latency Optimization Parallel Processing Serverless Container Orchestration Do what you love and the money will follow.
 Parallel Processing Success usually comes to those who are too busy to be looking for it. A/B Testing Backend Simplicity is the ultimate sophistication. Blockchain Lambda Functions
 Scalability Kubernetes Content Delivery Network Pull Request Automation Optimization Latency Optimization Logging Version Control Distributed Systems
+Python Load Testing Cache Invalidation Logging If you can dream it, you can do it. Testing Success is how high you bounce when you hit bottom. Backend Serverless API Virtual Machines Machine Learning

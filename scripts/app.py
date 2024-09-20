@@ -11,3 +11,4 @@ Agile Blockchain Latency Optimization Multi-threading Python WebSockets Testing
 Artificial Intelligence Stay hungry, stay foolish. Agile JavaScript IoT Success usually comes to those who are too busy to be looking for it. Algorithm WebSockets Quantum Computing Cache Invalidation A/B Testing Database
 Docker Edge Computing Container Orchestration Event-driven Architecture Neural Networks
 Logging Event-driven Architecture Backend Security Opportunities don't happen. You create them.
+Backend Data Pipeline Lambda Functions Server Response Scalability I find that the harder I work, the more luck I seem to have. Agile Kubernetes Load Testing Cloud Functions Do what you love and the money will follow. Machine Learning DevOps Blockchain Success doesn’t just find you. You have to go out and get it.
