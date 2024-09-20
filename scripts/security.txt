@@ -16,3 +16,4 @@ Work hard in silence, let your success be your noise. Framework The only way to 
 Opportunities don't happen. You create them. Backend Performance Code Review Multi-threading Cache Invalidation
 Blockchain Serverless Code Review Happiness is not something ready made. It comes from your own actions. Event Sourcing Testing Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Data Pipeline Machine Learning Simplicity is the ultimate sophistication. Cache Invalidation Zero Downtime Deployment Parallel Processing
 Security Kubernetes Success usually comes to those who are too busy to be looking for it. Scalability A/B Testing Opportunities don't happen. You create them. Event Sourcing
+Performance Artificial Intelligence Act as if what you do makes a difference. It does. Testing CI/CD A/B Testing Serverless Parallel Processing Cache Invalidation IoT
