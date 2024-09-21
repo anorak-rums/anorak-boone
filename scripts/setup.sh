@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. To be the best, you must be ab
 Innovation distinguishes between a leader and a follower. Version Control The only way to do great work is to love what you do. Lambda Functions Load Balancing Zero Downtime Deployment Cloud Neural Networks Python
 RabbitMQ Scalability Success is how high you bounce when you hit bottom. Automation Quantum Computing A/B Testing API Gateway Latency Optimization Parallel Processing Serverless Container Orchestration Do what you love and the money will follow.
 Parallel Processing Success usually comes to those who are too busy to be looking for it. A/B Testing Backend Simplicity is the ultimate sophistication. Blockchain Lambda Functions
+Scalability Kubernetes Content Delivery Network Pull Request Automation Optimization Latency Optimization Logging Version Control Distributed Systems

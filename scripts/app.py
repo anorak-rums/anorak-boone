@@ -10,3 +10,4 @@ API Gateway Server Response Content Delivery Network Stay hungry, stay foolish. 
 Agile Blockchain Latency Optimization Multi-threading Python WebSockets Testing
 Artificial Intelligence Stay hungry, stay foolish. Agile JavaScript IoT Success usually comes to those who are too busy to be looking for it. Algorithm WebSockets Quantum Computing Cache Invalidation A/B Testing Database
 Docker Edge Computing Container Orchestration Event-driven Architecture Neural Networks
+Logging Event-driven Architecture Backend Security Opportunities don't happen. You create them.
