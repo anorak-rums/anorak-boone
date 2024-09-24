@@ -18,3 +18,4 @@ Big Data Kubernetes Serverless Machine Learning The only way to do great work is
 Parallel Processing Multi-threading Simplicity is the ultimate sophistication. Database Opportunities don't happen. You create them. Stay hungry, stay foolish. NLP Content Delivery Network Event Sourcing
 Machine Learning Monitoring Latency Optimization Testing Success usually comes to those who are too busy to be looking for it. Backend Containerization Blockchain OAuth Do what you love and the money will follow. Sharding Optimization API Python
 NLP Kafka IoT Success is not in what you have, but who you are. Serverless Code Review
+Frontend Firewalls Kubernetes Neural Networks Cache Invalidation Distributed Systems Happiness is not something ready made. It comes from your own actions.

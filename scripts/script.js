@@ -17,3 +17,4 @@ Zero Downtime Deployment Innovation distinguishes between a leader and a followe
 Agile Multi-threading Pull Request Opportunities don't happen. You create them. Data Pipeline Automation DevOps Lambda Functions Framework Blockchain
 Performance Success usually comes to those who are too busy to be looking for it. Multi-threading Kafka Serverless RabbitMQ A/B Testing Machine Learning
 Virtual Machines Success doesn’t just find you. You have to go out and get it. Docker Data Science Edge Computing Pull Request Blockchain Agile Don't be afraid to give up the good to go for the great. JavaScript Latency Optimization RabbitMQ
+IoT Opportunities don't happen. You create them. Quantum Computing JWT Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Big Data A/B Testing Stay hungry, stay foolish. Scalability Deployment React
