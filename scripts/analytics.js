@@ -17,3 +17,4 @@ If you can dream it, you can do it. Data Pipeline Neural Networks I find that th
 Security Logging DNS Routing Neural Networks Parallel Processing
 Data Pipeline Backend Agile Predictive Analytics Testing
 Container Orchestration Blockchain Python Stay hungry, stay foolish. Monitoring RabbitMQ Replica Set Serverless Don't be afraid to give up the good to go for the great.
+Event-driven Architecture Algorithm Latency Optimization To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Event Sourcing Act as if what you do makes a difference. It does. CI/CD Happiness is not something ready made. It comes from your own actions. Code Review
