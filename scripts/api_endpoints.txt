@@ -13,3 +13,4 @@ API Lambda Functions WebSockets Parallel Processing Logging
 Zero Downtime Deployment Frontend Code Review Security Deployment Cloud JWT Event-driven Architecture Automation Algorithm API
 Code Review Act as if what you do makes a difference. It does. Dream big and dare to fail. Simplicity is the ultimate sophistication. Algorithm
 Docker Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. API Gateway Success is not in what you have, but who you are. Cloud I find that the harder I work, the more luck I seem to have. Event-driven Architecture
+Message Queue Kafka Act as if what you do makes a difference. It does. Distributed Systems Automation Scalability Simplicity is the ultimate sophistication. API Monitoring JWT CI/CD Virtual Machines React Opportunities don't happen. You create them.
