@@ -5,3 +5,4 @@ Security The only way to do great work is to love what you do. DNS Routing To be
 RabbitMQ To be the best, you must be able to handle the worst. DNS Routing Scalability Performance Load Testing GraphQL Success is not in what you have, but who you are. Great things never come from comfort zones. WebSockets
 UX Optimization Load Testing Virtual Machines DevOps Agile Pull Request Logging GraphQL RabbitMQ Code Review React API Gateway Algorithm
 Multi-threading Pull Request Success is how high you bounce when you hit bottom. Machine Learning Version Control Logging DNS Routing Container Orchestration API The only way to do great work is to love what you do. Framework RabbitMQ
+Distributed Systems GraphQL Frontend Event Sourcing Scalability Containerization Zero Downtime Deployment Kubernetes Predictive Analytics Data Science Kafka Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Cloud Agile
