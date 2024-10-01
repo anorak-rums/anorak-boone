@@ -16,3 +16,4 @@ Algorithm Predictive Analytics Lambda Functions Act as if what you do makes a di
 If you can dream it, you can do it. Data Pipeline Neural Networks I find that the harder I work, the more luck I seem to have. Code Review Big Data
 Security Logging DNS Routing Neural Networks Parallel Processing
 Data Pipeline Backend Agile Predictive Analytics Testing
+Container Orchestration Blockchain Python Stay hungry, stay foolish. Monitoring RabbitMQ Replica Set Serverless Don't be afraid to give up the good to go for the great.
