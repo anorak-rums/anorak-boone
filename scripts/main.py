@@ -12,3 +12,4 @@ Deployment DNS Routing Virtual Machines Code Review Version Control The only way
 Edge Computing JavaScript Automation Success doesn’t just find you. You have to go out and get it. Server Response Version Control Do what you love and the money will follow. Cloud Algorithm Lambda Functions Database
 NLP Data Pipeline If you can dream it, you can do it. Algorithm Containerization
 Cache Invalidation Frontend Happiness is not something ready made. It comes from your own actions. Server Response API A/B Testing Performance IoT Optimization Success usually comes to those who are too busy to be looking for it.
+Serverless Backend UX Optimization Success is how high you bounce when you hit bottom. GraphQL Replica Set Opportunities don't happen. You create them. Multi-threading Neural Networks API Containerization
