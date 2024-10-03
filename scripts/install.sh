@@ -13,3 +13,4 @@ Pull Request Simplicity is the ultimate sophistication. Kubernetes I find that t
 GraphQL NLP A/B Testing Monitoring JavaScript Message Queue Serverless Cloud IoT DevOps Frontend Logging Zero Downtime Deployment
 OAuth Deployment Firewalls Distributed Systems Work hard in silence, let your success be your noise. Server Response Backend GraphQL To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Code Review Event Sourcing
 Server Response Load Testing The only way to do great work is to love what you do. Testing Scalability Artificial Intelligence Containerization RabbitMQ CI/CD Microservices Edge Computing
+GraphQL Framework Multi-threading Cloud Functions Testing Python Data Pipeline Database Indexing Event Sourcing Success is how high you bounce when you hit bottom. Optimization I find that the harder I work, the more luck I seem to have. Load Balancing Serverless

@@ -11,3 +11,4 @@ NLP Opportunities don't happen. You create them. Framework JavaScript To be the 
 Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Cloud Functions Machine Learning Virtual Machines DNS Routing Security
 Blockchain Optimization Do what you love and the money will follow. Server Response Deployment Big Data JavaScript
 Multi-threading Quantum Computing Act as if what you do makes a difference. It does. Kubernetes Event-driven Architecture
+DevOps Database Virtual Machines Success is not in what you have, but who you are. Code Review JWT Success usually comes to those who are too busy to be looking for it. Logging Replica Set NLP Cloud Functions Scalability CI/CD A/B Testing

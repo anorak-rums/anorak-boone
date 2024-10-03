@@ -15,3 +15,4 @@ Framework Container Orchestration Deployment Success usually comes to those who 
 Happiness is not something ready made. It comes from your own actions. Edge Computing Monitoring Success is how high you bounce when you hit bottom. Predictive Analytics OAuth Scalability
 Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. DNS Routing Big Data Content Delivery Network Agile Latency Optimization Success is how high you bounce when you hit bottom. RabbitMQ Success is not in what you have, but who you are. If you can dream it, you can do it. Container Orchestration
 Agile Multi-threading Pull Request Opportunities don't happen. You create them. Data Pipeline Automation DevOps Lambda Functions Framework Blockchain
+Performance Success usually comes to those who are too busy to be looking for it. Multi-threading Kafka Serverless RabbitMQ A/B Testing Machine Learning
