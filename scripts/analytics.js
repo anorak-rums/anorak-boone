@@ -15,3 +15,4 @@ Message Queue Logging Simplicity is the ultimate sophistication. Performance Mic
 Algorithm Predictive Analytics Lambda Functions Act as if what you do makes a difference. It does. Kafka Pull Request API Containerization JavaScript Message Queue
 If you can dream it, you can do it. Data Pipeline Neural Networks I find that the harder I work, the more luck I seem to have. Code Review Big Data
 Security Logging DNS Routing Neural Networks Parallel Processing
+Data Pipeline Backend Agile Predictive Analytics Testing
