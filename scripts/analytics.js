@@ -14,3 +14,4 @@ Work hard in silence, let your success be your noise. Success doesn’t just find 
 Message Queue Logging Simplicity is the ultimate sophistication. Performance Microservices GraphQL Big Data I find that the harder I work, the more luck I seem to have. Blockchain Version Control Code Review Act as if what you do makes a difference. It does. CI/CD Don't be afraid to give up the good to go for the great.
 Algorithm Predictive Analytics Lambda Functions Act as if what you do makes a difference. It does. Kafka Pull Request API Containerization JavaScript Message Queue
 If you can dream it, you can do it. Data Pipeline Neural Networks I find that the harder I work, the more luck I seem to have. Code Review Big Data
+Security Logging DNS Routing Neural Networks Parallel Processing
