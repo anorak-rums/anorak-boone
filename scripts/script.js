@@ -12,3 +12,4 @@ React Quantum Computing Replica Set Opportunities don't happen. You create them.
 JavaScript Difficult roads often lead to beautiful destinations. Distributed Systems Kubernetes Agile Deployment Success doesn’t just find you. You have to go out and get it.
 JWT Logging Simplicity is the ultimate sophistication. Sharding API Gateway Opportunities don't happen. You create them. Big Data Do what you love and the money will follow. Microservices Monitoring Event-driven Architecture Neural Networks Docker Backend
 Framework Container Orchestration Deployment Success usually comes to those who are too busy to be looking for it. Testing Event Sourcing Parallel Processing Machine Learning Firewalls UX Optimization
+Happiness is not something ready made. It comes from your own actions. Edge Computing Monitoring Success is how high you bounce when you hit bottom. Predictive Analytics OAuth Scalability
