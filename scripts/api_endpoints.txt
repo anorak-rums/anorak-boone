@@ -11,3 +11,4 @@ I find that the harder I work, the more luck I seem to have. Artificial Intellig
 Message Queue Replica Set Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Python Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. DevOps OAuth Deployment Load Testing
 API Lambda Functions WebSockets Parallel Processing Logging
 Zero Downtime Deployment Frontend Code Review Security Deployment Cloud JWT Event-driven Architecture Automation Algorithm API
+Code Review Act as if what you do makes a difference. It does. Dream big and dare to fail. Simplicity is the ultimate sophistication. Algorithm
