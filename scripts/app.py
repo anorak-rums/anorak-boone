@@ -9,3 +9,4 @@ Stay hungry, stay foolish. Deployment Frontend Sharding Difficult roads often le
 API Gateway Server Response Content Delivery Network Stay hungry, stay foolish. CI/CD Code Review Firewalls Sharding Quantum Computing Optimization Logging Predictive Analytics Microservices Act as if what you do makes a difference. It does.
 Agile Blockchain Latency Optimization Multi-threading Python WebSockets Testing
 Artificial Intelligence Stay hungry, stay foolish. Agile JavaScript IoT Success usually comes to those who are too busy to be looking for it. Algorithm WebSockets Quantum Computing Cache Invalidation A/B Testing Database
+Docker Edge Computing Container Orchestration Event-driven Architecture Neural Networks
