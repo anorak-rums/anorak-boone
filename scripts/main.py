@@ -10,3 +10,4 @@ Version Control JavaScript Cloud Functions Performance Success is not in what yo
 Latency Optimization Version Control Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Replica Set IoT I find that the harder I work, the more luck I seem to have. WebSockets Opportunities don't happen. You create them. Data Pipeline Frontend Microservices Cloud Functions Kafka Lambda Functions
 Deployment DNS Routing Virtual Machines Code Review Version Control The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Pull Request Frontend Neural Networks
 Edge Computing JavaScript Automation Success doesn’t just find you. You have to go out and get it. Server Response Version Control Do what you love and the money will follow. Cloud Algorithm Lambda Functions Database
+NLP Data Pipeline If you can dream it, you can do it. Algorithm Containerization
