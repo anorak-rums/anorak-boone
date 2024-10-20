@@ -11,3 +11,4 @@ Serverless Algorithm Message Queue Opportunities don't happen. You create them. 
 Message Queue Docker Machine Learning Latency Optimization Predictive Analytics API Event Sourcing WebSockets The only way to do great work is to love what you do. UX Optimization Content Delivery Network IoT
 Serverless Distributed Systems Code Review Sharding Quantum Computing Artificial Intelligence Dream big and dare to fail. Container Orchestration Performance Load Balancing Microservices Neural Networks CI/CD
 Automation Lambda Functions React Message Queue Kubernetes Event Sourcing IoT Security Cloud Load Testing
+Stay hungry, stay foolish. Data Pipeline Data Science Load Testing Testing UX Optimization Success usually comes to those who are too busy to be looking for it.
