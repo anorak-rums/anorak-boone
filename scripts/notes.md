@@ -8,3 +8,4 @@ Database DNS Routing Kafka Microservices API Success doesn’t just find you. You 
 JavaScript NLP Big Data React Event-driven Architecture DNS Routing Code Review IoT Cloud Logging Data Science Scalability Pull Request
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. JWT Stay hungry, stay foolish. Neural Networks Python NLP IoT Dream big and dare to fail.
 NLP Opportunities don't happen. You create them. Framework JavaScript To be the best, you must be able to handle the worst. Automation DevOps API Gateway
+Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Cloud Functions Machine Learning Virtual Machines DNS Routing Security
