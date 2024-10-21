@@ -14,3 +14,4 @@ API Big Data Cloud Zero Downtime Deployment UX Optimization Cache Invalidation I
 Pull Request WebSockets CI/CD Container Orchestration DevOps Backend Containerization Data Science Firewalls Python Kubernetes Success is how high you bounce when you hit bottom. API
 Edge Computing RabbitMQ Zero Downtime Deployment UX Optimization DevOps Monitoring Cache Invalidation
 Firewalls If you can dream it, you can do it. Predictive Analytics Security OAuth Success is how high you bounce when you hit bottom. Database UX Optimization
+Big Data Kubernetes Serverless Machine Learning The only way to do great work is to love what you do. Data Pipeline GraphQL Agile API Gateway Don't be afraid to give up the good to go for the great. Multi-threading Containerization Artificial Intelligence I find that the harder I work, the more luck I seem to have.
