@@ -12,3 +12,4 @@ Version Control Framework Kubernetes Great things never come from comfort zones.
 Event Sourcing Database Data Pipeline Success doesn’t just find you. You have to go out and get it. Message Queue Neural Networks Success is not in what you have, but who you are. API Gateway WebSockets Cloud
 Database Indexing Cloud Functions UX Optimization Machine Learning Distributed Systems React Cache Invalidation If you can dream it, you can do it. Message Queue API
 Content Delivery Network Frontend Database Docker Happiness is not something ready made. It comes from your own actions. Pull Request Don't be afraid to give up the good to go for the great. Distributed Systems Sharding Act as if what you do makes a difference. It does. Code Review Deployment
+The only way to do great work is to love what you do. Automation Framework Security DevOps Zero Downtime Deployment Serverless Success is how high you bounce when you hit bottom. Cache Invalidation Scalability Sharding
