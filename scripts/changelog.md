@@ -12,3 +12,4 @@ Virtual Machines Parallel Processing Neural Networks Great things never come fro
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. IoT Automation Difficult roads often lead to beautiful destinations. Agile DNS Routing WebSockets Firewalls Scalability
 API Big Data Cloud Zero Downtime Deployment UX Optimization Cache Invalidation Innovation distinguishes between a leader and a follower.
 Pull Request WebSockets CI/CD Container Orchestration DevOps Backend Containerization Data Science Firewalls Python Kubernetes Success is how high you bounce when you hit bottom. API
+Edge Computing RabbitMQ Zero Downtime Deployment UX Optimization DevOps Monitoring Cache Invalidation
