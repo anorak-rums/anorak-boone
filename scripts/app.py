@@ -8,3 +8,4 @@ Framework Frontend Database The only way to do great work is to love what you do
 Stay hungry, stay foolish. Deployment Frontend Sharding Difficult roads often lead to beautiful destinations. JavaScript Optimization Parallel Processing A/B Testing Security Do what you love and the money will follow. Data Science CI/CD
 API Gateway Server Response Content Delivery Network Stay hungry, stay foolish. CI/CD Code Review Firewalls Sharding Quantum Computing Optimization Logging Predictive Analytics Microservices Act as if what you do makes a difference. It does.
 Agile Blockchain Latency Optimization Multi-threading Python WebSockets Testing
+Artificial Intelligence Stay hungry, stay foolish. Agile JavaScript IoT Success usually comes to those who are too busy to be looking for it. Algorithm WebSockets Quantum Computing Cache Invalidation A/B Testing Database

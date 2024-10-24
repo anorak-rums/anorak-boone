@@ -9,3 +9,4 @@ Deployment Difficult roads often lead to beautiful destinations. Cloud Replica S
 Act as if what you do makes a difference. It does. Blockchain RabbitMQ JavaScript Cloud Functions Happiness is not something ready made. It comes from your own actions. Database Framework Neural Networks Firewalls
 I find that the harder I work, the more luck I seem to have. Artificial Intelligence UX Optimization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow.
 Message Queue Replica Set Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Python Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. DevOps OAuth Deployment Load Testing
+API Lambda Functions WebSockets Parallel Processing Logging

@@ -10,3 +10,4 @@ Opportunities don't happen. You create them. Code Review Data Science Act as if 
 Serverless Algorithm Message Queue Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Kafka CI/CD Zero Downtime Deployment Act as if what you do makes a difference. It does. NLP
 Message Queue Docker Machine Learning Latency Optimization Predictive Analytics API Event Sourcing WebSockets The only way to do great work is to love what you do. UX Optimization Content Delivery Network IoT
 Serverless Distributed Systems Code Review Sharding Quantum Computing Artificial Intelligence Dream big and dare to fail. Container Orchestration Performance Load Balancing Microservices Neural Networks CI/CD
+Automation Lambda Functions React Message Queue Kubernetes Event Sourcing IoT Security Cloud Load Testing
