@@ -11,3 +11,4 @@ Cloud Algorithm Act as if what you do makes a difference. It does. Edge Computin
 Virtual Machines Parallel Processing Neural Networks Great things never come from comfort zones. Backend Latency Optimization Don't be afraid to give up the good to go for the great. Python Stay hungry, stay foolish. Edge Computing Automation Server Response DevOps NLP Load Balancing
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. IoT Automation Difficult roads often lead to beautiful destinations. Agile DNS Routing WebSockets Firewalls Scalability
 API Big Data Cloud Zero Downtime Deployment UX Optimization Cache Invalidation Innovation distinguishes between a leader and a follower.
+Pull Request WebSockets CI/CD Container Orchestration DevOps Backend Containerization Data Science Firewalls Python Kubernetes Success is how high you bounce when you hit bottom. API
