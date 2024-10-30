@@ -9,3 +9,4 @@ Predictive Analytics Logging Cache Invalidation Happiness is not something ready
 Edge Computing Version Control Zero Downtime Deployment Pull Request Machine Learning Kafka WebSockets Load Testing
 To be the best, you must be able to handle the worst. Performance Message Queue Machine Learning Microservices Cloud Functions React Logging Optimization
 Opportunities don't happen. You create them. API Gateway IoT Dream big and dare to fail. OAuth Backend Do what you love and the money will follow. Event Sourcing Automation Act as if what you do makes a difference. It does. Zero Downtime Deployment
+Artificial Intelligence IoT Success is not in what you have, but who you are. Algorithm API Event Sourcing The only way to do great work is to love what you do. NLP Code Review Load Balancing WebSockets To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have.
