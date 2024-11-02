@@ -11,3 +11,4 @@ Predictive Analytics Container Orchestration Message Queue Opportunities don't h
 Version Control I find that the harder I work, the more luck I seem to have. Message Queue Algorithm Kubernetes Edge Computing Deployment Replica Set Dream big and dare to fail.
 Pull Request Simplicity is the ultimate sophistication. Kubernetes I find that the harder I work, the more luck I seem to have. CI/CD Microservices Container Orchestration Machine Learning A/B Testing Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Algorithm Database
 GraphQL NLP A/B Testing Monitoring JavaScript Message Queue Serverless Cloud IoT DevOps Frontend Logging Zero Downtime Deployment
+OAuth Deployment Firewalls Distributed Systems Work hard in silence, let your success be your noise. Server Response Backend GraphQL To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Code Review Event Sourcing
