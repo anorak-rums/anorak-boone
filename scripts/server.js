@@ -8,3 +8,4 @@ A/B Testing Predictive Analytics Dream big and dare to fail. Algorithm RabbitMQ 
 Predictive Analytics Logging Cache Invalidation Happiness is not something ready made. It comes from your own actions. Kafka IoT Big Data Event-driven Architecture React Latency Optimization Quantum Computing Code Review JWT Sharding
 Edge Computing Version Control Zero Downtime Deployment Pull Request Machine Learning Kafka WebSockets Load Testing
 To be the best, you must be able to handle the worst. Performance Message Queue Machine Learning Microservices Cloud Functions React Logging Optimization
+Opportunities don't happen. You create them. API Gateway IoT Dream big and dare to fail. OAuth Backend Do what you love and the money will follow. Event Sourcing Automation Act as if what you do makes a difference. It does. Zero Downtime Deployment
