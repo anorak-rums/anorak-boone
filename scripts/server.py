@@ -11,3 +11,4 @@ Version Control Act as if what you do makes a difference. It does. Server Respon
 Success is how high you bounce when you hit bottom. Great things never come from comfort zones. IoT Backend NLP Python JWT Quantum Computing Version Control Cache Invalidation Microservices OAuth API Gateway
 Difficult roads often lead to beautiful destinations. WebSockets Testing Frontend DNS Routing Don't be afraid to give up the good to go for the great. API Gateway Content Delivery Network Load Testing Cache Invalidation Database Indexing Database
 WebSockets Do what you love and the money will follow. Multi-threading Backend Replica Set Performance Container Orchestration JWT Cache Invalidation GraphQL Success is not in what you have, but who you are. Containerization Database
+Virtual Machines Kubernetes Scalability Replica Set Event Sourcing JWT Testing Container Orchestration Pull Request Backend Kafka Cloud Difficult roads often lead to beautiful destinations.
