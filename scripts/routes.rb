@@ -9,3 +9,4 @@ Content Delivery Network Kubernetes Happiness is not something ready made. It co
 Code Review Security NLP Frontend Lambda Functions WebSockets Kubernetes Content Delivery Network Pull Request Logging Happiness is not something ready made. It comes from your own actions. UX Optimization
 Load Testing Content Delivery Network Cloud Database API Big Data Python Latency Optimization Cache Invalidation Testing
 Version Control Framework Kubernetes Great things never come from comfort zones. Parallel Processing
+Event Sourcing Database Data Pipeline Success doesn’t just find you. You have to go out and get it. Message Queue Neural Networks Success is not in what you have, but who you are. API Gateway WebSockets Cloud
