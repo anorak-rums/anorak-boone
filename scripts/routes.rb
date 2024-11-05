@@ -8,3 +8,4 @@ Success doesn’t just find you. You have to go out and get it. Python Happiness i
 Content Delivery Network Kubernetes Happiness is not something ready made. It comes from your own actions. Automation DNS Routing Container Orchestration Multi-threading Innovation distinguishes between a leader and a follower. DevOps Containerization Backend React Message Queue Replica Set
 Code Review Security NLP Frontend Lambda Functions WebSockets Kubernetes Content Delivery Network Pull Request Logging Happiness is not something ready made. It comes from your own actions. UX Optimization
 Load Testing Content Delivery Network Cloud Database API Big Data Python Latency Optimization Cache Invalidation Testing
+Version Control Framework Kubernetes Great things never come from comfort zones. Parallel Processing
