@@ -10,3 +10,4 @@ Deployment Testing Work hard in silence, let your success be your noise. Scalabi
 Predictive Analytics Container Orchestration Message Queue Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Big Data Optimization Performance Backend A/B Testing
 Version Control I find that the harder I work, the more luck I seem to have. Message Queue Algorithm Kubernetes Edge Computing Deployment Replica Set Dream big and dare to fail.
 Pull Request Simplicity is the ultimate sophistication. Kubernetes I find that the harder I work, the more luck I seem to have. CI/CD Microservices Container Orchestration Machine Learning A/B Testing Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Algorithm Database
+GraphQL NLP A/B Testing Monitoring JavaScript Message Queue Serverless Cloud IoT DevOps Frontend Logging Zero Downtime Deployment
