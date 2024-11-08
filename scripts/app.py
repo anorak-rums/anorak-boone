@@ -7,3 +7,4 @@ Database Do what you love and the money will follow. Agile Data Pipeline Algorit
 Framework Frontend Database The only way to do great work is to love what you do. Microservices Load Balancing JWT Edge Computing Do what you love and the money will follow. Database Indexing
 Stay hungry, stay foolish. Deployment Frontend Sharding Difficult roads often lead to beautiful destinations. JavaScript Optimization Parallel Processing A/B Testing Security Do what you love and the money will follow. Data Science CI/CD
 API Gateway Server Response Content Delivery Network Stay hungry, stay foolish. CI/CD Code Review Firewalls Sharding Quantum Computing Optimization Logging Predictive Analytics Microservices Act as if what you do makes a difference. It does.
+Agile Blockchain Latency Optimization Multi-threading Python WebSockets Testing
