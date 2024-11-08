@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. Artificial Intelligence Ev
 JWT Microservices Agile Act as if what you do makes a difference. It does. Predictive Analytics I find that the harder I work, the more luck I seem to have. Replica Set Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. UX Optimization
 Data Pipeline I find that the harder I work, the more luck I seem to have. Parallel Processing Dream big and dare to fail. Load Balancing Event-driven Architecture JavaScript Work hard in silence, let your success be your noise.
 OAuth Data Pipeline Cloud Load Testing Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise.
+Edge Computing Distributed Systems Containerization DevOps Event-driven Architecture Container Orchestration Machine Learning Security Load Balancing Testing Multi-threading Act as if what you do makes a difference. It does.
