@@ -7,3 +7,4 @@ Version Control Scalability Distributed Systems Cloud Work hard in silence, let 
 Act as if what you do makes a difference. It does. Scalability Lambda Functions Serverless Deployment If you can dream it, you can do it. Testing Artificial Intelligence Firewalls Backend
 Edge Computing Code Review Serverless JWT Kubernetes DNS Routing Replica Set Innovation distinguishes between a leader and a follower. Containerization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
 Predictive Analytics Testing Stay hungry, stay foolish. Server Response DNS Routing DevOps Machine Learning Opportunities don't happen. You create them. Scalability IoT
+Cloud Algorithm Act as if what you do makes a difference. It does. Edge Computing Frontend WebSockets Multi-threading Don't be afraid to give up the good to go for the great.
