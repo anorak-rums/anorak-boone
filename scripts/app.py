@@ -5,3 +5,4 @@ Big Data API Gateway Edge Computing Security Stay hungry, stay foolish.
 Cloud JavaScript API Dream big and dare to fail. Zero Downtime Deployment
 Database Do what you love and the money will follow. Agile Data Pipeline Algorithm Multi-threading NLP Difficult roads often lead to beautiful destinations. Scalability Work hard in silence, let your success be your noise.
 Framework Frontend Database The only way to do great work is to love what you do. Microservices Load Balancing JWT Edge Computing Do what you love and the money will follow. Database Indexing
+Stay hungry, stay foolish. Deployment Frontend Sharding Difficult roads often lead to beautiful destinations. JavaScript Optimization Parallel Processing A/B Testing Security Do what you love and the money will follow. Data Science CI/CD
