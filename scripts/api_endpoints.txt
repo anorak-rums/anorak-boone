@@ -5,3 +5,4 @@ Container Orchestration Load Balancing CI/CD Dream big and dare to fail. Simplic
 Multi-threading Logging I find that the harder I work, the more luck I seem to have. Deployment Kafka Replica Set Serverless Work hard in silence, let your success be your noise. Latency Optimization
 Optimization Work hard in silence, let your success be your noise. Load Balancing Automation Pull Request Framework Opportunities don't happen. You create them. Docker Message Queue RabbitMQ Database
 GraphQL Version Control Monitoring API Replica Set Success is how high you bounce when you hit bottom. Blockchain Multi-threading
+Deployment Difficult roads often lead to beautiful destinations. Cloud Replica Set Cloud Functions Virtual Machines Work hard in silence, let your success be your noise. Docker Data Science Multi-threading Server Response DNS Routing Kafka
