@@ -8,3 +8,4 @@ Replica Set Logging Work hard in silence, let your success be your noise. Contai
 Message Queue Cloud Functions Machine Learning Version Control Backend Agile Success is not in what you have, but who you are.
 Act as if what you do makes a difference. It does. API Lambda Functions Happiness is not something ready made. It comes from your own actions. Frontend Neural Networks RabbitMQ Work hard in silence, let your success be your noise.
 Work hard in silence, let your success be your noise. Parallel Processing Container Orchestration Machine Learning Do what you love and the money will follow. Version Control Content Delivery Network Quantum Computing DNS Routing Deployment Edge Computing
+UX Optimization Cache Invalidation Message Queue Performance Innovation distinguishes between a leader and a follower.
