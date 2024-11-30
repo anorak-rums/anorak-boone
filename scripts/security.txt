@@ -10,3 +10,4 @@ Database Indexing Success is how high you bounce when you hit bottom. Message Qu
 Stay hungry, stay foolish. Load Balancing Cloud Distributed Systems Version Control NLP Message Queue Replica Set Python Dream big and dare to fail. Data Pipeline Containerization JWT
 Deployment Server Response Containerization Act as if what you do makes a difference. It does. NLP UX Optimization Cache Invalidation
 UX Optimization Cache Invalidation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Distributed Systems A/B Testing Predictive Analytics WebSockets
+Deployment JavaScript Cloud Functions IoT Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Logging Algorithm Artificial Intelligence Kubernetes If you can dream it, you can do it. Cloud
