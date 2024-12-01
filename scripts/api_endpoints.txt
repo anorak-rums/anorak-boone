@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. Success is not in what you
 Algorithm Event-driven Architecture Innovation distinguishes between a leader and a follower. Cache Invalidation Message Queue Deployment Predictive Analytics
 Container Orchestration Load Balancing CI/CD Dream big and dare to fail. Simplicity is the ultimate sophistication. Automation Frontend Data Science Cloud Functions Firewalls OAuth Pull Request
 Multi-threading Logging I find that the harder I work, the more luck I seem to have. Deployment Kafka Replica Set Serverless Work hard in silence, let your success be your noise. Latency Optimization
+Optimization Work hard in silence, let your success be your noise. Load Balancing Automation Pull Request Framework Opportunities don't happen. You create them. Docker Message Queue RabbitMQ Database
