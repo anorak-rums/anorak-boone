@@ -5,3 +5,4 @@ Optimization Happiness is not something ready made. It comes from your own actio
 Kafka API Machine Learning Database Indexing Neural Networks Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Python Dream big and dare to fail.
 Version Control Scalability Distributed Systems Cloud Work hard in silence, let your success be your noise. Logging Performance
 Act as if what you do makes a difference. It does. Scalability Lambda Functions Serverless Deployment If you can dream it, you can do it. Testing Artificial Intelligence Firewalls Backend
+Edge Computing Code Review Serverless JWT Kubernetes DNS Routing Replica Set Innovation distinguishes between a leader and a follower. Containerization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
