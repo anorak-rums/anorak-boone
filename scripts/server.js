@@ -5,3 +5,4 @@ Message Queue Backend Edge Computing Cloud Functions NLP Lambda Functions JWT La
 To be the best, you must be able to handle the worst. IoT Deployment Replica Set Serverless Version Control Server Response Code Review Automation Distributed Systems
 Testing Monitoring Work hard in silence, let your success be your noise. Edge Computing A/B Testing Distributed Systems RabbitMQ Pull Request
 A/B Testing Predictive Analytics Dream big and dare to fail. Algorithm RabbitMQ Automation API Gateway
+Predictive Analytics Logging Cache Invalidation Happiness is not something ready made. It comes from your own actions. Kafka IoT Big Data Event-driven Architecture React Latency Optimization Quantum Computing Code Review JWT Sharding

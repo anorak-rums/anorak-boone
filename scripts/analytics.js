@@ -8,3 +8,4 @@ API Edge Computing JavaScript Serverless API Gateway Cloud Functions RabbitMQ In
 Database Message Queue Backend Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment
 If you can dream it, you can do it. Data Science DevOps Container Orchestration Edge Computing Quantum Computing
 Cache Invalidation Algorithm Deployment UX Optimization Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Container Orchestration Version Control
+CI/CD Parallel Processing Monitoring Cache Invalidation Kafka Act as if what you do makes a difference. It does. Database Indexing DevOps GraphQL Pull Request Content Delivery Network Sharding OAuth Containerization
