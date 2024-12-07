@@ -9,3 +9,4 @@ Data Science Firewalls Load Balancing DNS Routing Lambda Functions Cloud Success
 Database Indexing Success is how high you bounce when you hit bottom. Message Queue RabbitMQ Framework DevOps Simplicity is the ultimate sophistication. JWT Server Response OAuth UX Optimization Difficult roads often lead to beautiful destinations. Parallel Processing Backend
 Stay hungry, stay foolish. Load Balancing Cloud Distributed Systems Version Control NLP Message Queue Replica Set Python Dream big and dare to fail. Data Pipeline Containerization JWT
 Deployment Server Response Containerization Act as if what you do makes a difference. It does. NLP UX Optimization Cache Invalidation
+UX Optimization Cache Invalidation Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Distributed Systems A/B Testing Predictive Analytics WebSockets
