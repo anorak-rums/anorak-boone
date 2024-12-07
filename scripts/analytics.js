@@ -6,3 +6,4 @@ Version Control Containerization Load Testing Blockchain Work hard in silence, l
 Virtual Machines API Gateway Work hard in silence, let your success be your noise. Monitoring Success usually comes to those who are too busy to be looking for it.
 API Edge Computing JavaScript Serverless API Gateway Cloud Functions RabbitMQ Innovation distinguishes between a leader and a follower. Cloud Latency Optimization Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Containerization Testing
 Database Message Queue Backend Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment
+If you can dream it, you can do it. Data Science DevOps Container Orchestration Edge Computing Quantum Computing
