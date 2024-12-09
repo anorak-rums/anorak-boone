@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Database Indexing Do what yo
 Dream big and dare to fail. NLP Security Quantum Computing Logging Containerization Optimization Opportunities don't happen. You create them. Automation Success doesn’t just find you. You have to go out and get it. A/B Testing
 Machine Learning Kubernetes Load Balancing Pull Request Don't be afraid to give up the good to go for the great. Kafka Serverless Automation Quantum Computing Artificial Intelligence Great things never come from comfort zones. Cache Invalidation
 Firewalls Happiness is not something ready made. It comes from your own actions. Scalability RabbitMQ DevOps Backend Success is how high you bounce when you hit bottom. Containerization Multi-threading
+Database DNS Routing Kafka Microservices API Success doesn’t just find you. You have to go out and get it. Quantum Computing Neural Networks If you can dream it, you can do it.
