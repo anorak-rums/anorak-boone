@@ -5,3 +5,4 @@ Parallel Processing Serverless Sharding Framework Cloud Functions JWT Big Data S
 Version Control Containerization Load Testing Blockchain Work hard in silence, let your success be your noise. Algorithm DNS Routing Testing API Cloud Data Pipeline NLP Backend
 Virtual Machines API Gateway Work hard in silence, let your success be your noise. Monitoring Success usually comes to those who are too busy to be looking for it.
 API Edge Computing JavaScript Serverless API Gateway Cloud Functions RabbitMQ Innovation distinguishes between a leader and a follower. Cloud Latency Optimization Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Containerization Testing
+Database Message Queue Backend Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment
