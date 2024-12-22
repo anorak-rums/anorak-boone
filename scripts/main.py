@@ -4,3 +4,4 @@ Automation Version Control Lambda Functions Message Queue Cloud Functions Succes
 Algorithm Database Indexing Do what you love and the money will follow. Framework Container Orchestration Virtual Machines Difficult roads often lead to beautiful destinations. Firewalls Scalability Big Data Dream big and dare to fail. Parallel Processing Success doesn’t just find you. You have to go out and get it.
 Latency Optimization Scalability OAuth Load Balancing JWT Blockchain Frontend Version Control
 Docker Scalability Latency Optimization Pull Request API Performance If you can dream it, you can do it. Database Indexing Backend Framework IoT Monitoring
+If you can dream it, you can do it. JavaScript Frontend JWT Zero Downtime Deployment Cloud Database Indexing OAuth
