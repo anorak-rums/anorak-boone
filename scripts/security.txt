@@ -6,3 +6,4 @@ Microservices Python Work hard in silence, let your success be your noise. React
 Event Sourcing Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Parallel Processing Opportunities don't happen. You create them. DevOps Data Pipeline Scalability
 Replica Set Kafka Firewalls Database Indexing API Docker Frontend React A/B Testing Container Orchestration Innovation distinguishes between a leader and a follower. DNS Routing
 Data Science Firewalls Load Balancing DNS Routing Lambda Functions Cloud Success doesn’t just find you. You have to go out and get it. Automation
+Database Indexing Success is how high you bounce when you hit bottom. Message Queue RabbitMQ Framework DevOps Simplicity is the ultimate sophistication. JWT Server Response OAuth UX Optimization Difficult roads often lead to beautiful destinations. Parallel Processing Backend
