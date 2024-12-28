@@ -1,3 +1,4 @@
 Optimization Zero Downtime Deployment The only way to do great work is to love what you do. DNS Routing RabbitMQ Machine Learning Load Balancing Backend Testing
 Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Distributed Systems DNS Routing Predictive Analytics Dream big and dare to fail. Edge Computing Kubernetes Lambda Functions
 Algorithm Event-driven Architecture Innovation distinguishes between a leader and a follower. Cache Invalidation Message Queue Deployment Predictive Analytics
+Container Orchestration Load Balancing CI/CD Dream big and dare to fail. Simplicity is the ultimate sophistication. Automation Frontend Data Science Cloud Functions Firewalls OAuth Pull Request
