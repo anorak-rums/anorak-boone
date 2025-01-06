@@ -1,2 +1,3 @@
 Testing Replica Set Edge Computing Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Firewalls Multi-threading IoT Dream big and dare to fail. Pull Request Success is how high you bounce when you hit bottom. Virtual Machines Framework
 Scalability Replica Set Frontend Difficult roads often lead to beautiful destinations. Lambda Functions Virtual Machines IoT Success doesn’t just find you. You have to go out and get it. Python
+Firewalls Cloud Functions Scalability Frontend Message Queue NLP Pull Request I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. React Predictive Analytics JavaScript Performance
