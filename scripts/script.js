@@ -3,3 +3,4 @@ Backend Data Science Pull Request Logging Innovation distinguishes between a lea
 Virtual Machines Happiness is not something ready made. It comes from your own actions. Kubernetes API Gateway Agile Innovation distinguishes between a leader and a follower.
 Virtual Machines Deployment Logging Event-driven Architecture Do what you love and the money will follow. Load Balancing Event Sourcing
 Security Agile Innovation distinguishes between a leader and a follower. Docker Event-driven Architecture Serverless Don't be afraid to give up the good to go for the great. NLP A/B Testing Quantum Computing RabbitMQ Python Container Orchestration Kubernetes OAuth
+Edge Computing Data Science Monitoring Big Data GraphQL Code Review
