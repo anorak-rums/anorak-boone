@@ -1,3 +1,4 @@
 Frontend Multi-threading Work hard in silence, let your success be your noise. Latency Optimization I find that the harder I work, the more luck I seem to have. Agile Simplicity is the ultimate sophistication. IoT CI/CD Firewalls
 Database Zero Downtime Deployment Parallel Processing Server Response Don't be afraid to give up the good to go for the great. Cache Invalidation Frontend Containerization
 Firewalls DNS Routing Scalability Security Testing Database Indexing IoT DevOps Database
+Containerization Cache Invalidation Automation Server Response Success doesn’t just find you. You have to go out and get it. Python
