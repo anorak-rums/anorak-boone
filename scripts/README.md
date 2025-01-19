@@ -2,3 +2,4 @@ Data Pipeline Testing Scalability Load Testing I find that the harder I work, th
 NLP JWT Quantum Computing Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Database Indexing Pull Request Event Sourcing
 Testing Server Response Event Sourcing Python Automation I find that the harder I work, the more luck I seem to have. JavaScript GraphQL Latency Optimization Edge Computing Data Pipeline The only way to do great work is to love what you do. Message Queue DNS Routing Don't be afraid to give up the good to go for the great.
 GraphQL Version Control Artificial Intelligence WebSockets Firewalls Docker Predictive Analytics
+Neural Networks UX Optimization Docker Containerization Do what you love and the money will follow. Logging Stay hungry, stay foolish. Dream big and dare to fail. Predictive Analytics Cloud Functions Blockchain Algorithm Database Quantum Computing Python

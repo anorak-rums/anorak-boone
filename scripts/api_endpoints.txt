@@ -1,1 +1,2 @@
 Optimization Zero Downtime Deployment The only way to do great work is to love what you do. DNS Routing RabbitMQ Machine Learning Load Balancing Backend Testing
+Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Distributed Systems DNS Routing Predictive Analytics Dream big and dare to fail. Edge Computing Kubernetes Lambda Functions
