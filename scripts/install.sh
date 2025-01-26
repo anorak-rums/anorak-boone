@@ -2,3 +2,4 @@ Database Indexing Cloud Functions Success usually comes to those who are too bus
 Testing Framework Big Data Serverless Distributed Systems Scalability Do what you love and the money will follow. API Gateway Cloud IoT Server Response
 Artificial Intelligence Content Delivery Network API Gateway Firewalls Agile Latency Optimization Kubernetes Monitoring
 Message Queue Algorithm Database Artificial Intelligence WebSockets Serverless UX Optimization Great things never come from comfort zones. Load Balancing Zero Downtime Deployment Monitoring
+Virtual Machines Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Monitoring Success is how high you bounce when you hit bottom. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Backend API Pull Request Neural Networks Code Review Framework
