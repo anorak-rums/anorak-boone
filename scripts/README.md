@@ -1,1 +1,2 @@
 Data Pipeline Testing Scalability Load Testing I find that the harder I work, the more luck I seem to have. Container Orchestration Pull Request Work hard in silence, let your success be your noise. Message Queue Automation Simplicity is the ultimate sophistication. DNS Routing Data Science
+NLP JWT Quantum Computing Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Database Indexing Pull Request Event Sourcing
