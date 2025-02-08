@@ -1,1 +1,2 @@
 Deployment OAuth Pull Request Microservices React Server Response Version Control GraphQL Distributed Systems Do what you love and the money will follow. IoT Artificial Intelligence Work hard in silence, let your success be your noise. Great things never come from comfort zones. DevOps
+The only way to do great work is to love what you do. Dream big and dare to fail. Kafka Don't be afraid to give up the good to go for the great. Logging IoT API Gateway Deployment Stay hungry, stay foolish. Predictive Analytics Message Queue
